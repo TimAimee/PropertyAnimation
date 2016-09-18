@@ -6,12 +6,10 @@
 
 	  for (int i = 0; i < mBarCount; i++) {
             if (i < count * mBarProgress) {
-
                 float maginTop = getMaginTop(mStepArray[i]);
                 RectF recf = new RectF((mBarWidth + mBarMaginLeft) * i, mBarMaxHeight - maginTop + mBarMaginTop,
                         mBarWidth * (i + 1) + mBarMaginLeft * i, mBarMaxHeight + mBarMaginTop);
                 canvas.drawRoundRect(recf, roundWidthX, roundWidthY, mBarPaint);
-
             }
         }		 
 
@@ -21,12 +19,10 @@
 
 	for (int i = 0; i < mBarCount; i++) {
 			if (i < count) {
-
 				float maginTop = getMaginTop(mStepArray[i]);
 				RectF recf = new RectF((mBarWidth + mBarMaginLeft) * i, mBarMaxHeight-(mBarMaxHeight-maginTop)*mBarProgress  + mBarMaginTop,
 						mBarWidth * (i + 1) + mBarMaginLeft * i, mBarMaxHeight + mBarMaginTop);
 				canvas.drawRoundRect(recf, roundWidthX, roundWidthY, mBarPaint);
-
 			}
 		}
 
@@ -41,7 +37,6 @@
 				RectF recf = new RectF((mBarWidth + mBarMaginLeft) * i, mBarMaxHeight-(mBarMaxHeight-maginTop)*mBarProgress  + mBarMaginTop,
 						mBarWidth * (i + 1) + mBarMaginLeft * i, mBarMaxHeight + mBarMaginTop);
 				canvas.drawRoundRect(recf, roundWidthX, roundWidthY, mBarPaint);
-
 			}
 		}
 
