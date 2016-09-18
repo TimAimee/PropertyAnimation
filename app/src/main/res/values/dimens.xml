@@ -1,0 +1,91 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="layout_left_margin_right">20dp</dimen>
+    <dimen name="but_left_margin_right">40dp</dimen>
+    <dimen name="layout_top">10dp</dimen>
+    <dimen name="layout_buttom_margin">26dp</dimen>
+    <dimen name="title_left_margin_right">20dp</dimen>
+    <dimen name="title_img">20dp</dimen>
+    <dimen name="title_tv">25sp</dimen>
+
+
+    <dimen name="registerperinfo_magin_head_top">20dp</dimen>
+    <dimen name="registerperinfo_img_sex">100dp</dimen>
+    <dimen name="registerperinfo_img_next">80dp</dimen>
+
+    <dimen name="registergoal_tv_tip">12sp</dimen>
+    <dimen name="registergoal_tv_step">25sp</dimen>
+    <dimen name="registergoal_img_sub">25dp</dimen>
+    <dimen name="registergoal_img_submagin">40dp</dimen>
+
+    <dimen name="main_tab_text">13sp</dimen>
+    <dimen name="main_tab_img">30dp</dimen>
+    <dimen name="main_tab_magin_top">8dp</dimen>
+    <dimen name="main_tab_magin_bottom">8dp</dimen>
+    <!--文本跟图片之间的间隔-->
+    <dimen name="main_tab_magin_middle">3dp</dimen>
+
+    <dimen name="fgm_home_block_img">40dp</dimen>
+    <dimen name="fgm_home_block_tv_title">17sp</dimen>
+    <dimen name="fgm_home_block_tv_right_top">11sp</dimen>
+    <dimen name="fgm_home_block_tv_right_bottom">20sp</dimen>
+    <dimen name="fgm_home_block_height">185sp</dimen>
+    <dimen name="fgm_home_block_height_first">100sp</dimen>
+    <dimen name="fgm_home_magin_tv_right">10sp</dimen>
+    <dimen name="fgm_home_magin_img">10sp</dimen>
+    <dimen name="fgm_home_magin_customview_left_in">28sp</dimen>
+    <dimen name="fgm_home_magin_customview_left_out">50sp</dimen>
+    <dimen name="fgm_home_magin_customview_height">120sp</dimen>
+    <dimen name="fgm_home_img_move">8dp</dimen>
+
+
+    <dimen name="fgm_setting_headicon">100dp</dimen>
+    <dimen name="fgm_setting_headicon_img_rightbottom">40dp</dimen>
+    <dimen name="fgm_setting_nickname_arrow">15dp</dimen>
+    <dimen name="fgm_setting_gold_cup">40dp</dimen>
+    <dimen name="fgm_setting_gold_maginleftandright">30dp</dimen>
+
+    <dimen name="list_item_height_ble">65dp</dimen>
+    <dimen name="list_item_height_seting">50dp</dimen>
+    <dimen name="list_item_setting_img">25dp</dimen>
+    <dimen name="list_item_setting_img_arrow">15dp</dimen>
+    <dimen name="list_item_setting_tv_title">18sp</dimen>
+    <dimen name="list_item_setting_tv_content">21sp</dimen>
+
+    <dimen name="setgoal_tv">15sp</dimen>
+
+    <dimen name="bleconnect_success_height">70dp</dimen>
+    <dimen name="bleconnect_success_img_watch">30dp</dimen>
+    <dimen name="bleconnect_success_img_battery">30dp</dimen>
+    <dimen name="bleconnect_success_tv_content">15sp</dimen>
+
+    <dimen name="longseat_tv">20sp</dimen>
+    <dimen name="longseat_content">22sp</dimen>
+    <dimen name="longseat_height">60dp</dimen>
+
+    <dimen name="profile_tv">20sp</dimen>
+    <dimen name="profile_content">22sp</dimen>
+    <dimen name="profile_height">48dp</dimen>
+
+
+    <dimen name="alarm_img">32dp</dimen>
+    <dimen name="alarm_magin_left">20dp</dimen>
+    <dimen name="alarm_content_tv">25sp</dimen>
+
+    <dimen name="modify_edit_height">45dp</dimen>
+    <dimen name="modify_edit_tv">15sp</dimen>
+
+
+    <dimen name="activity_vertical_margin_top">16dp</dimen>
+    <dimen name="activity_vertical_margin_bottom">32dp</dimen>
+    <dimen name="feature_horizontal_margin">50dp</dimen>
+    <dimen name="feature_vertical_margin_top">50dp</dimen>
+    <dimen name="feature_section_padding">8dp</dimen>
+
+    <dimen name="history_sleep_layout_magin">10dp</dimen>
+
+    <dimen name="history_heart_preson_img">20dp</dimen>
+    <dimen name="history_bp_linear_img">20dp</dimen>
+</resources>
